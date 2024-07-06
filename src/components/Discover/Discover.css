@@ -1,0 +1,64 @@
+.discoveries{
+    background-color:#bdbdbd;
+}
+
+.discovery {
+    display: flex;
+    padding-right: 20px;
+    padding-left: 20px;
+    width: 100%;
+    background-color: #bdbdbd;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+
+
+.heading p{
+    font-size: 20px;
+
+}
+
+.discount_right img{
+    width: 100%;
+    height: 100%;
+}
+
+.discount {
+    background-color: black;
+    text-align: center;
+    width: 50%;
+    padding: 4% 0% 0%;
+}
+
+
+.discount_right{
+    width: 50%;
+ 
+}
+
+.discount h2 {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    padding: 1% 1%;
+    font-weight: 400;
+}
+
+.discount span{
+    color: #bdbdbd;
+    font-weight: 700;
+}
+.discount p {
+    font-weight: 500;
+    text-align: center;
+    color: white;
+    font-size: 34px;
+    width: 89%;
+    margin: 2% 5.6% 7%;
+}

@@ -1,0 +1,30 @@
+nav{
+    width: 100%;
+    /* position: sticky;
+    top: 0px; */
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: #252421; */
+    background-color:black;
+    color: white;
+}
+
+ul {
+    display: flex;
+    align-items: baseline;
+    gap: 50px;
+    list-style-type: none;
+}
+
+Nav ul li{
+    font-size: 20px;
+    color: white;
+}
+
+.icons{
+    display: flex;
+    gap: 30px;
+}
+
